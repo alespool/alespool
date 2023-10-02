@@ -1,5 +1,3 @@
-[![MasterHead](/home/alessio-pc/PycharmProjects/alespool/images/banner.png)](https://github.com/alespool)
-
 # Alessio's GitHub Profile
 
 Hi there 👋, I'm Alessio and welcome to my GitHub profile!
