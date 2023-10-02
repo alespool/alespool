@@ -1,8 +1,8 @@
 [![MasterHead](images/banner.png)](https://github.com/alespool)
 
-# Alessio's GitHub Profile
+# My GitHub
 
-Hi there 👋, I'm Alessio and welcome to my GitHub profile!
+Hi there 👋, and welcome to my GitHub!
 
 ## 👨‍💻 About Me:
 
