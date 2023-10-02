@@ -1,8 +1,10 @@
+[![MasterHead](images/banner.png)](https://github.com/alespool)
+
 # Alessio's GitHub Profile
 
 Hi there 👋, I'm Alessio and welcome to my GitHub profile!
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 -   🧪  I'm a passionate and dedicated Data Scientist
 -   💓  Strong interest in applying data insights to the field of neuroscience 
@@ -11,30 +13,31 @@ Hi there 👋, I'm Alessio and welcome to my GitHub profile!
 -   🛠️  2+ years experience as data analsyt 
 -   ⚡  Fun fact: I can cook Chinese, Filipino and Italian cuisine 🥘
 
-## 🤖 About me for Bots  
+<!-- ## 🤖 About me for Bots: -->
 
-```python
+<!-- ```python
 class myself:
 	user = 'Alessio Nespoli'
-   	current_work = 'Data Scientist'
-   	hobbies = [
-   			'Studying Languages',
-   			'Calisthenics',
-   			'Ancient Literature',
-   			'Programming',
-            'Cooking',
-   			'Animal Caring',
-   		]
+	current_work = 'Data Scientist'
+	hobbies = [
+			'Studying Languages',
+			'Calisthenics',
+			'Ancient Literature',
+			'Programming',
+	        'Cooking',
+			'Animal Caring',
+		]
+
+	def getCity():
+   		return "Como - Italy"
    
-   def getCity():
-   	return "Como - Italy"
-   
-   def Ambitions():
+
+	def Ambitions():
    	learn_mandarin()
    	write_novel()
    	get_a_phd()
    	# Assume some more awesome ambitions here  ;)
-```
+``` -->
 
 ## Programming Languages:	
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
