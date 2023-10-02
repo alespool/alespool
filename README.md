@@ -57,14 +57,3 @@ class myself:
 
 [![alespool's GitHub stats](https://github-readme-stats.vercel.app/api?username=alespool&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to reach me: 
-
-<a href=”https://www.linkedin.com/in/alespool/"><img align=”left” src=”https://raw.githubusercontent.com/alespool/alespool/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
-LinkedIn: https://www.linkedin.com/in/alessionespoli97/
-
-Email: alessionespoli.97@gmail.com
-
-[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://alessionespoli20.wixsite.com/website) 
-
-Feel free to explore my GitHub repositories and get in touch if you have any questions or collaboration opportunities. I'm always excited to connect with fellow data enthusiasts and neuroscientists!
-
