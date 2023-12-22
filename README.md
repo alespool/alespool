@@ -10,7 +10,7 @@ Hi there 👋, and welcome to my GitHub!
 -   💓  Strong interest in applying data insights to the field of neuroscience 
 -   🌱  Love for knowledge and nature.
 -   ✍️  Currently researching deep learning algorithms.
--   🛠️  2+ years experience as data analsyt 
+-   🛠️  2+ years experience as data analyst 
 -   ⚡  Fun fact: I can cook Chinese, Filipino and Italian cuisine 🥘
 
 <!-- ## 🤖 About me for Bots: -->
