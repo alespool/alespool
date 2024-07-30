@@ -6,12 +6,22 @@ Hi there 👋, and welcome to my GitHub!
 
 ## 👨‍💻 About Me:
 
--   🧪  I'm a passionate and dedicated Data Scientist
--   💓  Strong interest in applying data insights to the field of neuroscience 
--   🌱  Love for knowledge, nature and calisthenics.
--   ✍️  Currently researching deep learning algorithms.
--   🛠️  2+ years experience as data analyst 
--   ⚡  Fun fact: I can cook Chinese, Filipino and Italian cuisine 🥘
+-   🧪  I'm a passionate and dedicated Data Engineer;
+-   🛠️  3+ years experience as data analyst;
+-   💓  Strong interest in applying data insights to the field of neuroscience; 
+-   🌱  Love for knowledge, nature and calisthenics;
+-   ⚡  Fun fact: I can cook Chinese, Filipino and Italian cuisine; 🥘
+
+## 💻 Current Works:
+
+-   ✍️  Currently researching deep learning algorithms;
+-   📚  Working on improving problem solving through competitive coding puzzles;
+-   📃  [My Resume](https://docs.google.com/document/d/127TmMN25StSOkCWjTV0ndHsLPmW7x4ws/edit?usp=sharing&ouid=101817304080652191540&rtpof=true&sd=true)
+
+For any enquiries or requests to collaborate, please reach out directly to me　／　如有任何咨询或合作请求，请直接联系我，我还能用普通话交谈，
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) -->
+[![Gmail Badge](https://img.shields.io/badge/-alessionespoli.97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:alessionespoli.97@gmail.com) 
 
 <!-- ## 🤖 About me for Bots: -->
 
@@ -52,7 +62,6 @@ class myself:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ## GitHub Stats:
 
