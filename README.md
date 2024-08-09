@@ -63,9 +63,10 @@ class myself:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/spool97?theme=unicorn&font=Murecho&ext=activity)
+
 ## GitHub Stats:
 
 [![alespool's GitHub stats](https://github-readme-stats.vercel.app/api?username=alespool&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/spool97?theme=unicorn&font=Murecho&ext=activity)
