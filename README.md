@@ -64,7 +64,7 @@ class myself:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/spool97?theme=unicorn&font=Murecho&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/spool97?theme=unicorn&font=Murecho)
 
 ## GitHub Stats:
 
