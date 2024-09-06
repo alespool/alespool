@@ -66,7 +66,3 @@ class myself:
 ## Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spool97?theme=unicorn&font=Murecho)
 
-## GitHub Stats:
-
-[![alespool's GitHub stats](https://github-readme-stats.vercel.app/api?username=alespool&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
