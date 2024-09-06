@@ -6,7 +6,7 @@ Hi there 👋, and welcome to my GitHub!
 
 ## 👨‍💻 About Me:
 
--   🧪  I'm a passionate and dedicated Data Engineer;
+-   🧪  I'm a passionate and dedicated Data Scientist;
 -   🛠️  3+ years experience as data analyst;
 -   💓  Strong interest in applying data insights to the field of neuroscience; 
 -   🌱  Love for knowledge, nature and calisthenics;
