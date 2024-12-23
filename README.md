@@ -14,7 +14,8 @@ Hi there 👋, and welcome to my GitHub!
 
 ## 💻 Current Works:
 
--   ✍️  Currently researching deep learning algorithms;
+-   📚  Preparing to start a PhD in Neuroscience at University of Oslo;
+-   ✍️  Currently researching videogame AI programming;
 -   📚  Working on improving problem solving through competitive coding puzzles;
 -   📃  [My Resume](https://docs.google.com/document/d/127TmMN25StSOkCWjTV0ndHsLPmW7x4ws/edit?usp=sharing&ouid=101817304080652191540&rtpof=true&sd=true)
 
@@ -26,7 +27,7 @@ For any enquiries or requests to collaborate, please reach out directly to me　
 <!-- ## 🤖 About me for Bots: -->
 
 <!-- ```python
-class myself:
+class Myself:
 	user = 'Alessio Nespoli'
 	current_work = 'Data Scientist'
 	hobbies = [
@@ -43,10 +44,10 @@ class myself:
    
 
 	def Ambitions():
-   	learn_mandarin()
-   	write_novel()
-   	get_a_phd()
-   	# Assume some more awesome ambitions here  ;)
+	   	learn_mandarin()
+		learn_bot_programming()
+	    	get_a_phd(✔️)
+   		# Assume some more awesome ambitions here  ;)
 ``` -->
 
 ## Programming Languages:	
