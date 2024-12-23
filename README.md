@@ -14,7 +14,7 @@ Hi there 👋, and welcome to my GitHub!
 
 ## 💻 Current Works:
 
--   📚  Preparing to start a PhD in Neuroscience at University of Oslo;
+-   🏫  Preparing to start a PhD in Neuroscience at University of Oslo;
 -   ✍️  Currently researching videogame AI programming;
 -   📚  Working on improving problem solving through competitive coding puzzles;
 -   📃  [My Resume](https://docs.google.com/document/d/127TmMN25StSOkCWjTV0ndHsLPmW7x4ws/edit?usp=sharing&ouid=101817304080652191540&rtpof=true&sd=true)
