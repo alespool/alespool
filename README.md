@@ -5,7 +5,7 @@
 
 Hi there 👋, and welcome to my GitHub!
 
-For any enquiries or requests to collaborate, please reach out directly to me　／　如有任何咨询或合作请求，请直接联系我，我还能用普通话交谈，
+For any enquiries or requests to collaborate, please reach out directly to me　／　如有任何咨询或合作请求，请直接联系我，我熟练掌握英语和中文，
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alessio_Nespoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessionespoli97)](https://www.linkedin.com/in/alessionespoli97)
 [![Gmail Badge](https://img.shields.io/badge/-alessionespoli.97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:alessionespoli.97@gmail.com) 
